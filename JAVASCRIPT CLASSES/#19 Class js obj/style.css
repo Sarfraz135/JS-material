@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+}
+.btn{
+    background-color: bisque;
+}
+#list{
+    list-style-type: none;
+}
